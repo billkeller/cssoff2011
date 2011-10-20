@@ -1,0 +1,24 @@
+body {
+	color: #000;
+	font-size: 100%;
+	background-color: #fff;
+	padding: 46px 0;
+	}
+/*------------------------
+Defaults
+-------------------------*/
+a,
+a:link {
+	color: #939598;
+	text-decoration: underline;
+	}
+a,
+a:visited,
+a:hover,
+a:focus {
+	color: #ccc;
+	text-decoration: underline;
+	}
+/*------------------------
+General structure
+-------------------------*/

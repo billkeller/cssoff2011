@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:billkeller</key>
+	<false/>
+	<key>ExpandedEditorWidth:billkeller:displays([(0, 0), (2560, 1440)]:[(-1920, 90), (1920, 1200)])</key>
+	<integer>884</integer>
+	<key>ExpandedItems:billkeller</key>
+	<array/>
+	<key>FileFilterID:billkeller</key>
+	<string>msng</string>
+	<key>OpenDocuments:billkeller</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsVisible</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<true/>
+	<key>RecentItems:billkeller</key>
+	<array/>
+	<key>RecentItemsExpanded</key>
+	<true/>
+	<key>RecentItemsVisible</key>
+	<true/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowInvisibles:billkeller</key>
+	<false/>
+	<key>ShowSCMData:billkeller</key>
+	<false/>
+	<key>TextFilesOnly:billkeller</key>
+	<true/>
+	<key>ToolbarVisible:billkeller</key>
+	<true/>
+	<key>ViewSplitterPosition:billkeller</key>
+	<real>0.17690874636173248</real>
+	<key>WindowFrame:billkeller:displays([(0, 0), (2560, 1440)]:[(-1920, 90), (1920, 1200)])</key>
+	<string>rect(66,22,1382,1096)</string>
+</dict>
+</plist>
